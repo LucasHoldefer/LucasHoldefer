@@ -12,8 +12,13 @@ Sou Lucas Rafael Holdefer.
   
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/.net.svg'></a>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c#-programming-569564.png" alt="C"/></code>
 
+
+
+### :desktop_computer: Techs
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 ## Me encontre aqui 👇🏻
 <a href="https://www.linkedin.com/in/lucas-rafael-holdefer/" target="_blank">
