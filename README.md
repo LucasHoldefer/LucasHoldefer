@@ -10,15 +10,11 @@ Sou Lucas Rafael Holdefer.
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
   
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c#-programming-569564.png" alt="C"/></code>
+<p>- C#</p>
+<p>- .NET Core</p>
+<p>- JavaSript</p>
+<p>- React JS</p>
 
-
-
-### :desktop_computer: Techs
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 ## Me encontre aqui 👇🏻
 <a href="https://www.linkedin.com/in/lucas-rafael-holdefer/" target="_blank">
