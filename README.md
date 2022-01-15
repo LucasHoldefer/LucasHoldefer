@@ -1,38 +1,24 @@
-<h1 align="center">Olá, sou Lucas Rafael Holdefer</h1>
+# Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+
+Sou Lucas Rafael Holdefer.
+
+- 📌 Moro em Presidente Lucena, Rio Grande do Sul.
+- 👩🏻‍💻 Trabalho com C# .NET no back-end.
+- 💻 Apaixonado pela área de programação.
+- 📚 Atualmente estudando React JS.  
+
+
+## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
   
-  ##
- 
-<br>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
+<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/.net.svg'></a>
 
-## 🤓 Currently studying:
 
-<img align="right" width="49%" height="200px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-
-<!-- 
-<div align="center">
-  <a href="https://github.com/MoisesTeixeira">
-</div> -->
- 
-<hr>
-
-## ⚙️ Tech:	
-<!-- 	
-<div style="display: inline_block">
-  <img align="right" width="49%" height="200px" src="https://media.giphy.com/media/KectFFTAPZjyQ73mfd/giphy.gif"/>
-  <img align="center" alt="Mois-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <hr>
-  <img align="center" alt="Mois-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mois-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <hr>
-  <img align="center" alt="Mois-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Mois-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Mois-Visual-Studio-Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div> -->
- 
-<hr>
-
-## Connect with me:
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/lucas-rafael-holdefer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Me encontre aqui 👇🏻
+<a href="https://www.linkedin.com/in/lucas-rafael-holdefer/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="mailto:lucasholdefer2002@gmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
