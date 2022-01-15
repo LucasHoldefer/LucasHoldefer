@@ -18,6 +18,8 @@ Sou Lucas Rafael Holdefer.
 
 ## Me encontre aqui 👇🏻
 <a href="https://www.linkedin.com/in/lucas-rafael-holdefer/" target="_blank">
+  Linkedin
   </a>&nbsp;&nbsp;
  <a href="mailto:lucasholdefer2002@gmail.com">
+  Gmail
   </a>&nbsp;&nbsp; 
