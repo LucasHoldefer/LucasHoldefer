@@ -1,5 +1,3 @@
-# Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
-
 Sou Lucas Rafael Holdefer.
 
 - 📌 Moro em Presidente Lucena, Rio Grande do Sul.
@@ -10,13 +8,13 @@ Sou Lucas Rafael Holdefer.
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
   
-<p>- C#</p>
-<p>- .NET Core</p>
-<p>- JavaSript</p>
-<p>- React JS</p>
+- C#
+- .NET Core
+- JavaSript
+- React JS
 
 
-## Me encontre aqui 👇🏻
+## Contato
 <a href="https://www.linkedin.com/in/lucas-rafael-holdefer/" target="_blank">
   Linkedin
   </a>&nbsp;&nbsp;
