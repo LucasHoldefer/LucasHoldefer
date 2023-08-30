@@ -1,9 +1,9 @@
 Sou Lucas Rafael Holdefer.
 
 - 📌 Moro em Presidente Lucena, Rio Grande do Sul.
-- 👩🏻‍💻 Trabalho com C# .NET no back-end.
+- 👩🏻‍💻 Trabalho com .NET Core e React JS.
 - 💻 Apaixonado pela área de programação.
-- 📚 Atualmente estudando React JS.  
+- 📚 Atualmente aprimorando React JS.  
 
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
